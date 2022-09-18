@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="asset/css/style.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <title>Task manager</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1>Task Manager</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <h2>Add New Task</h2>
+            </div>
+        </div>
+        <form>
+            <div class="mb-3 mt-3">
+                <label for="name">Task Name</label>
+                <input type="text" class="form-control" placeholder="" id="name">
+            </div>
+            <div class="mb-3 mt-3">
+                <label for="description">Task Description</label>
+                <textarea class="form-control" rows="5" id="description" name="description"></textarea>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <label for="assigned">Assigned To:</label>
+                    <input type="text" class="form-control" placeholder="Assigned" name="assigned" id="assigned">
+                </div>
+                <div class="col">
+                    <label for="due">Due Date:</label>
+                    <input type="datetime-local" class="form-control" placeholder="Due" name="due" id="due">
+                </div>
+                <button type="submit" class="btn btn-primary mt-3">Add Task</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
