@@ -35,8 +35,8 @@ class TaskManager {
         const task = {
             id: this.currentId++,
             name: document.querySelector("#name").value,
-            discription: document.querySelector("#description").value,
-            assignedTo: document.querySelector("#assignedTo"),
+            description: document.querySelector("#description").value,
+            assignedTo: document.querySelector("#assignedTo").value,
             dueDate: document.querySelector("#dueDate").value,
             status: 'TODO'
         }
@@ -51,8 +51,8 @@ class TaskManager {
         for (let i = 0; i < this.tasks.length; i++) {
             let currentTask = this.tasks[i];
             const newDate = new Date(currentTask.dueDate);
-            //Time Zone difference, date is ahead by 1 day
-            const formattedDate = (newDate.getMonth() + 1) + '/' + newDate.getDate() + '/' + newDate.getFullYear();
+            
+            const formattedDate = (newDate.getMonth() + 1) + '/' + newDate.getDate() + '/' + newDate.getFullYear() + ',' + ' ' + newDate.getHours() + ':' + newDate.getMinutes();
             let taskHtml = createTaskHtml(currentTask.id, currentTask.name, currentTask.description, currentTask.assignedTo, formattedDate, currentTask.status);
             tasksHtmlList.push(taskHtml);
             for (let i = 0; i < tasksHtmlList.length; i++) {
