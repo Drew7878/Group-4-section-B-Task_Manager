@@ -95,22 +95,22 @@ class TaskManager {
     }
 
     deleteTask(taskId) {
-        //Created a new array and stored it in a new variable named newtasks
+        //Made a new array and then stored it in a new variable = newTasks
         const newTasks = [];
 
-        //Loop through the tasks
+        // I Looped through the tasks
         for (let i =0; i < this.tasks.length; i++) {
             // Get the current task in the loop
             const task = this.tasks[i];
 
-            // Check if the task ID is not the task ID passed in as a parameter
+            // verify if the task ID is not the task ID passed in as a parameter
             if (task.id !== taskId) {
-                // Push the task to the newTasks array
+                // Then Push the task to the newTasks array
                 newTasks.push(task);
             }
         }
 
-        // Set this.tasks to newTasks to newTasks
+        //this.tasks to newTasks
         this.tasks = newTasks;
     }
 
