@@ -1,7 +1,5 @@
 # Group-4-section-B-Task_Manager
 
-![Task Maanger Pic](https://user-images.githubusercontent.com/111025323/206808047-f00c4f48-8f6d-4186-8233-485a78091250.jpg)
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Table of Contents
 * Descriptoin:
@@ -42,32 +40,38 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Roles for each teammate:
-* Osa - 
-* Andrew - framework
-* Gowri - 
-* Gionne-
-* Josephine - 
+* Osa(Technical Supervisor), Gowri, Gionne, Josephine
 
+* As a team, we collectively worked on each step of the project and did not assign individual tasks; however, we did rely on Osa's Cybersecurity experience to check our code to finalize any changes that needed to be made.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Areas that could of been done better
-*
-*
-*
+* Should have assigned indivudal's their own task. (We could have been more efficient) Lack of confidence and experience due to being new to coding.
+* Improve our JavaScript knowledge
+* Improve on bootstrap knowledge
+* Issues with scheduling 
+* Improve on researching solutions
+
+# Areas where we did well
+* Strong team and good communication skills (Slack, Facebook)
+* Learned from one another by taking time to answer each team member'se questions
+* Confident in HTML structuring a website and CSS for positioning and styling
+* Made accomadations inorder to meet outside of class times
+* Helped each other mentally and emotionally during the hard times of coding
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Screen Shot Wire Frame
 ![image](https://user-images.githubusercontent.com/105463875/206602502-e416b2ec-a920-4275-be0b-e50484bc19a1.png)
 
-# Video Showing a MVP of the Task Manager in Real Time
-<video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
+# Screen Shot of Final Group Project
+![Task Maanger Pic](https://user-images.githubusercontent.com/111025323/206808047-f00c4f48-8f6d-4186-8233-485a78091250.jpg)
+
 # Screenshot of Final Group Project
   ![Task Maanger Pic](https://user-images.githubusercontent.com/111025323/206808480-5d28e461-1185-4086-88ff-d77a9492a917.jpg)
+  
+# Video
+https://clipchamp.com/watch/Dwr2RoO6Qa7?utm_source=share&utm_medium=social&utm_campaign=watch
 
-Your browser does not support the video tag.
-</video>
 
 
