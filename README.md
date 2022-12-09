@@ -39,7 +39,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Roles for each teammate:
+# Roles for each teammate
 * Osa(Technical Supervisor), Gowri, Gionne, Josephine
 
 * As a team, we collectively worked on each step of the project and did not assign individual tasks; however, we did rely on Osa's Cybersecurity experience to check our code to finalize any changes that needed to be made.
