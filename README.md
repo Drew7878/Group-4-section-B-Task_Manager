@@ -53,8 +53,7 @@
 ![image](https://user-images.githubusercontent.com/105463875/206602502-e416b2ec-a920-4275-be0b-e50484bc19a1.png)
 # Screen Shot of Final Group Project
 ![Task Maanger Pic](https://user-images.githubusercontent.com/111025323/206808047-f00c4f48-8f6d-4186-8233-485a78091250.jpg)
-# Screenshot of Final Group Project
-  ![Task Maanger Pic](https://user-images.githubusercontent.com/111025323/206808480-5d28e461-1185-4086-88ff-d77a9492a917.jpg)
+
   
 # Video
 https://clipchamp.com/watch/Dwr2RoO6Qa7?utm_source=share&utm_medium=social&utm_campaign=watch
