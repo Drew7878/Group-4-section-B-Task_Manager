@@ -69,7 +69,7 @@ https://clipchamp.com/watch/Dwr2RoO6Qa7?utm_source=share&utm_medium=social&utm_c
 # style.css Screenshot
 ![CSS](https://user-images.githubusercontent.com/111025323/206932580-76a6211f-9604-4fe2-8cd5-088f4470bc1e.jpg)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# taskmanager.js Screensehot
+# taskmanager.js Screenshot
 ![taskmanager](https://user-images.githubusercontent.com/111025323/206932601-f3c9f8f2-4968-450b-ac50-1adcf24b83e7.jpg)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
